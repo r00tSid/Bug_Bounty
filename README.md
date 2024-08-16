@@ -38,8 +38,8 @@ Ensure you have the following tools installed:
 1. **Clone the repository and navigate to the directory**:
 
     ```bash
-    git clone https://github.com/Sidhant0703/recon.sh.git
-    cd recon.sh
+    git clone https://github.com/Sidhant0703/Bug_Bounty.git
+    cd Bug_Bounty
     chmod +x recon.sh
     ```
 
@@ -126,8 +126,8 @@ Ensure you have the following tools installed:
 1. **Clone the repository and navigate to the directory**:
 
     ```bash
-    git clone https://github.com/Sidhant0703/automation.sh.git
-    cd automation.sh
+    git clone https://github.com/Sidhant0703/Bug_Bounty.git
+    cd Bug_Bounty
     chmod +x automation.sh
     ```
 
