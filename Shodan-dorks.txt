@@ -1,0 +1,63 @@
+#Top Shodan dorks to find vulnerabilities:
+
+1. org:"http://target. com" 
+
+2. http.status:"<status_code>" 
+
+3. product:"<Product_Name>" 
+
+4. port:<Port_Number> “Service_Message” 
+
+5. port:<Port_Number> “Service_Name” 
+
+6. http.component:"<Component_Name>" 
+
+7. http.component_category:"<Component_Category> 
+
+8. http.waf:"<firewall_name>" 
+
+9. http.html:"<Name>" 
+
+10. http.title:"<Title_Name>”
+
+11. ssl.alpn:"<Protocol>"
+
+12. http.favicon.hash:"<Favicon_Hash>"
+
+ 13. net:"<Net_Range>" (for e.g. 104.16.100.52/32) 
+
+14. ssl.cert.subject.cn:"<http://Domain .com>" 
+
+15. asn:"<ASnumber>"
+
+16. hostname:"<hosthame>" 
+
+17. ip:"<IP_Address>"
+
+18. all:"<Keyword>"
+
+19. “Set-Cookie: phpMyAdmin” 20. “Set-Cookie: lang=" 
+
+21. “Set-Cookie: PHPSESSID" 
+
+22. “Set-Cookie: webvpn” 
+
+23. “Set-Cookie:webvpnlogin=1" 
+
+24. “Set-Cookie:webvpnLang=en” 
+
+25. “Set-Cookie: mongo-express=" 26. “Set-Cookie: user_id=" 
+
+27. “Set-Cookie: phpMyAdmin=" 
+
+28. “Set-Cookie: _gitlab_session” 
+
+29. “X-elastic-product: Elasticsearch” 30. “x-drupal-cache” 
+
+31. “access-control-allow-origin” 
+
+32. “WWW-Authenticate”  
+
+33. “X-Magento-Cache-Debug”   
+
+34. “kbn-name: kibana”
